@@ -1,0 +1,17 @@
+# İşletim sistemi ve IDE artıkları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.metadata/
+.settings/
+
+# Derleme ve bytecode dosyaları
+*.class
+bin/
+__pycache__/
+*.pyc
+
+# Hassas bilgiler
+.env
+secrets.json
